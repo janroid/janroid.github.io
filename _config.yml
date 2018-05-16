@@ -1,5 +1,5 @@
 # Site settings
-title: JANROID Blog
+title: JAN's Blog
 SEOTitle: 亚方的博客 | BY Blog
 header-img: img/post-bg-desk.jpg
 email: jxaylsh@gmail.com
@@ -7,7 +7,7 @@ description: "The pursuit of the ultimate!"
 keyword: "janroid"
 url: "http://janroid.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/janroid/janorid.github.io.git" # you code repository
+github_repo: "https://github.com/janroid" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.

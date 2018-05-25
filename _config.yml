@@ -62,9 +62,9 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: 9c3895f11cd47d1e947d                            #生成的clientID
-  clientSecret: be297de0962f70953c09504eeaa062771ab8fab1    #生成的clientSecret
-  repo: Jan's Blog    #仓库名称
+  clientID: 0265065f7bd2e7c01a0a                            #生成的clientID
+  clientSecret: e62b1c87a7d6240d46209f417e3b11f581c17195    #生成的clientSecret
+  repo: janroid    #仓库名称
   owner: janroid    #github用户名
   admin: janroid
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
